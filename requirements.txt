@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+duckduckgo-search
+ipython
+langchain-tavily
+gradio
+streamlit
+langgraph-checkpoint-sqlite

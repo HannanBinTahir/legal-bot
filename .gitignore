@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Streamlit
+.streamlit/
+*.log
+
+# SQLite database
+checkpoints.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# C extensions
+*.so
+
+# pyenv
+.python-version
+
+streamlit_app.py
