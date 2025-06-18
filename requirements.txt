@@ -8,3 +8,4 @@ langchain-tavily
 gradio
 streamlit
 langgraph-checkpoint-sqlite
+web.py
